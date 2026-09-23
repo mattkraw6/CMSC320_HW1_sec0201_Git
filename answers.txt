@@ -3,5 +3,8 @@ Q1; Why might we consider using Git?
 Answer: To make collaboration on projects easier.
 Q2: What field could data sciecn be applied to? Give an Example.
 Answer: Data anaylist.
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: rebasing "replays" the changes that we made from out feature branches on our main branch
 =======
 >>>>>>>
