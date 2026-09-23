@@ -6,5 +6,8 @@ Answer: Data anaylist.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: rebasing "replays" the changes that we made from out feature branches on our main branch
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to having free time to work on personal projects.
 =======
 >>>>>>>
